@@ -1,4 +1,14 @@
-## Hi there 👋
+##Boas vindas ao meu perfil 💙
+
+Meu nome é Milena Fernandes
+
+* Estou estudando no alura
+* Estou me desenvolvendo na linguagem JavaScript
+* Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+##Você pode entrar em contato comigo 📫
+
+Milena.fernandes.silva@escola.pr.gov.br
 
 <!--
 **miih-01/miih-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+-  How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
